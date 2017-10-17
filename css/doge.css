@@ -7,9 +7,17 @@ body {
   text-align: center;
 }
 
-.list {
-  width: 30%;
-  text-align: center;
+.good-background {
+  background-color: #fff;
+  color: #000;
+}
+
+.evil-background {
+  background-color: #000;
+  color: #922;
+}
+
+
   }
 
 h2 {
@@ -21,17 +29,10 @@ h2 {
 p {
   font-family: sans-serif;
   font-weight: 14;
-  text-align: center;
+
 
 }
 
-
-
-.dash_border {
-  border: dashed;
-  border-width: thin;
-  border-color: black;
-}
 
 
 
