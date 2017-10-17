@@ -17,8 +17,11 @@ body {
   color: #922;
 }
 
+a:hover {
+  text-decoration: underline;
+}
 
-  }
+
 
 h2 {
   font-style: italic;
@@ -51,6 +54,8 @@ img.needs-resize {
   width: 320px;
   height: auto;
 }
+
+
 
 a.center-link {
   text-align: center;
